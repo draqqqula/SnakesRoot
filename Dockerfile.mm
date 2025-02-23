@@ -10,7 +10,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Копируем .csproj для проекта MatchMakingService
-COPY ["MatchMakingService/MatchMakingService/MatchMakingService.csproj", "MatchMakingService/MatchMakingService/"]
+COPY ["Projects/MatchMakingService/MatchMakingService/MatchMakingService.csproj", "MatchMakingService/MatchMakingService/"]
 
 # Восстанавливаем зависимости
 RUN dotnet restore "MatchMakingService/MatchMakingService/MatchMakingService.csproj"

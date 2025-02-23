@@ -10,7 +10,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Копируем .csproj для проекта SessionApi
-COPY ["SnakeServer/SnakeApi/SessionApi.csproj", "SnakeServer/SnakeApi/"]
+COPY ["Projects/SnakeServer/SnakeServer/SnakeApi/SessionApi.csproj", "SnakeServer/SnakeApi/"]
 
 # Восстанавливаем зависимости
 RUN dotnet restore "SnakeServer/SnakeApi/SessionApi.csproj"
