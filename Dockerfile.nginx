@@ -1,0 +1,15 @@
+# Используем официальный образ NGINX с Alpine Linux
+FROM nginx:alpine AS nginx
+
+# Копируем конфигурацию NGINX
+COPY nginx.conf /etc/nginx/nginx.conf
+
+# Копируем SSL сертификаты в контейнер
+COPY ssl /etc/nginx/ssl
+
+# Экспонируем порты 80 и 443
+EXPOSE 80
+EXPOSE 443
+
+# Устанавливаем команду запуска NGINX
+CMD ["nginx", "-g", "daemon off;"]
