@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5d6gvzFkV8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\PatternFileConverter\\PatternFileConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

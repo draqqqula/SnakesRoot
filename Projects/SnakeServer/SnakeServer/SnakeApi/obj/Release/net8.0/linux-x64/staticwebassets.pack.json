@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\snakes\\SnakeServer\\SnakeApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.SessionApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.build.SessionApi.props",
+      "PackagePath": "build\\SessionApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildMultiTargeting.SessionApi.props",
+      "PackagePath": "buildMultiTargeting\\SessionApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildTransitive.SessionApi.props",
+      "PackagePath": "buildTransitive\\SessionApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

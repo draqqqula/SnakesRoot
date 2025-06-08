@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\Build\\WebGL.data",
+      "PackagePath": "staticwebassets\\Build\\WebGL.data"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\Build\\WebGL.framework.js",
+      "PackagePath": "staticwebassets\\Build\\WebGL.framework.js"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\Build\\WebGL.loader.js",
+      "PackagePath": "staticwebassets\\Build\\WebGL.loader.js"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\Build\\WebGL.wasm",
+      "PackagePath": "staticwebassets\\Build\\WebGL.wasm"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\AddressablesLink\\link.xml",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\AddressablesLink\\link.xml"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-assets-shared_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-assets-shared_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-locales_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-locales_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-belarusian(be)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-belarusian(be)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-english(en)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-english(en)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-german(de)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-german(de)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-kazakh(kk)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-kazakh(kk)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-russian(ru)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-russian(ru)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-spanish(es)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-spanish(es)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-turkish(tr)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-turkish(tr)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\WebGL\\localization-string-tables-uzbek(uz)_assets_all.bundle",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\WebGL\\localization-string-tables-uzbek(uz)_assets_all.bundle"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\catalog.json",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\catalog.json"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\StreamingAssets\\aa\\settings.json",
+      "PackagePath": "staticwebassets\\StreamingAssets\\aa\\settings.json"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\MemoryProfiler.png",
+      "PackagePath": "staticwebassets\\TemplateData\\MemoryProfiler.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\favicon.ico",
+      "PackagePath": "staticwebassets\\TemplateData\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\fullscreen-button.png",
+      "PackagePath": "staticwebassets\\TemplateData\\fullscreen-button.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\progress-bar-empty-dark.png",
+      "PackagePath": "staticwebassets\\TemplateData\\progress-bar-empty-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\progress-bar-empty-light.png",
+      "PackagePath": "staticwebassets\\TemplateData\\progress-bar-empty-light.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\progress-bar-full-dark.png",
+      "PackagePath": "staticwebassets\\TemplateData\\progress-bar-full-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\progress-bar-full-light.png",
+      "PackagePath": "staticwebassets\\TemplateData\\progress-bar-full-light.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\style.css",
+      "PackagePath": "staticwebassets\\TemplateData\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\unity-logo-dark.png",
+      "PackagePath": "staticwebassets\\TemplateData\\unity-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\unity-logo-light.png",
+      "PackagePath": "staticwebassets\\TemplateData\\unity-logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\webgl-logo.png",
+      "PackagePath": "staticwebassets\\TemplateData\\webgl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\TemplateData\\webmemd-icon.png",
+      "PackagePath": "staticwebassets\\TemplateData\\webmemd-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SessionApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SessionApi.props",
+      "PackagePath": "build\\SessionApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SessionApi.props",
+      "PackagePath": "buildMultiTargeting\\SessionApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SessionApi.props",
+      "PackagePath": "buildTransitive\\SessionApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\bin\Release\net8.0\MessageSchemes.deps.json
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\bin\Release\net8.0\MessageSchemes.dll
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\bin\Release\net8.0\MessageSchemes.pdb
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\FlatSharp.generated.cs
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.csproj.AssemblyReference.cache
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.AssemblyInfoInputs.cache
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.AssemblyInfo.cs
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.csproj.CoreCompileInputs.cache
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.sourcelink.json
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.dll
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\refint\MessageSchemes.dll
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\MessageSchemes.pdb
+C:\Users\BogdanPC\source\repos\snakes\SnakeServer\MessageSchemes\obj\Release\net8.0\ref\MessageSchemes.dll

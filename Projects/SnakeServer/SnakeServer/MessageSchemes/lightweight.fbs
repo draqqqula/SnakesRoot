@@ -1,0 +1,59 @@
+﻿attribute "fs_serializer";
+
+namespace MessageSchemesLight;
+
+struct PackedPositionEvent {
+    id: ushort;
+    posX: float;
+    posY: float; 
+}
+
+struct PackedAngleEvent {
+    id: ushort;
+    angle: float;
+}
+
+struct PackedSizeEvent {
+    id: ushort;
+    width: float;
+    height: float;
+}
+
+struct PackedAssetEvent {
+    id: ushort;
+    asset: ushort;
+}
+
+struct PackedFrame {
+    id: ushort;
+    asset: ushort;
+    posX: float;
+    posY: float;
+    width: float;
+    height: float;
+    angle: float;
+}
+
+table FramePack (fs_serializer) {
+    list: [ PackedFrame ];
+}
+
+table PositionEventPack (fs_serializer) {
+    list: [ PackedPositionEvent ];
+}
+
+table SizeEventPack (fs_serializer) {
+    list: [ PackedSizeEvent ];
+}
+
+table AngleEventPack (fs_serializer) {
+    list: [ PackedAngleEvent ];
+}
+
+table AssetEventPack (fs_serializer) {
+    list: [ PackedAssetEvent ];
+}
+
+table DisposePack (fs_serializer) {
+    list: [ ushort ];
+}

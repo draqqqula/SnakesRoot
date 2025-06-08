@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQEUkRMjlrQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\MatchMakingLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\communitytoolkit.highperformance\\8.2.2\\communitytoolkit.highperformance.8.2.2.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

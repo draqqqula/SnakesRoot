@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cobE/1W3fj7fQcj+cmWqfJjtbzJ5PiMJYRGwdj5rLKg=",
+  "Source": "SessionApi",
+  "BasePath": "_content/SessionApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SessionApi\\wwwroot",
+      "Source": "SessionApi",
+      "ContentRoot": "C:\\Users\\BogdanPC\\source\\repos\\snakes\\SnakeServer\\SnakeApi\\wwwroot\\",
+      "BasePath": "_content/SessionApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

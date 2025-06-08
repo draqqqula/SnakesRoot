@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+t+KJTnKcc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\ServerEngine\\ServerEngine\\ServerEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

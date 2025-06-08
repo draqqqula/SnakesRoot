@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ubRa6h3JDHsntWoml7kY3aNqpuRAcruTBWTEhoZoKsw=",
+  "Source": "SessionApi",
+  "BasePath": "_content/SessionApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SessionApi\\wwwroot",
+      "Source": "SessionApi",
+      "ContentRoot": "C:\\Users\\BogdanPC\\source\\repos\\snakes\\SnakeServer\\SnakeApi\\wwwroot\\",
+      "BasePath": "_content/SessionApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BogdanPC\\source\\repos\\snakes\\SnakeServer\\SnakeApi\\wwwroot\\index.html",
+      "SourceId": "SessionApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BogdanPC\\source\\repos\\snakes\\SnakeServer\\SnakeApi\\wwwroot\\",
+      "BasePath": "_content/SessionApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

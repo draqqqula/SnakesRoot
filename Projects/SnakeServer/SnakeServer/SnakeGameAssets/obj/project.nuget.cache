@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jG0RA1Wpl4s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\SnakeServer\\SnakeServer\\SnakeGameAssets\\SnakeGameAssets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\BogdanPC\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

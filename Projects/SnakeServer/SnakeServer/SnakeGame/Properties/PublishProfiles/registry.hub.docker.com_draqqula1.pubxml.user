@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxE9RQoA/jUaBPGy3k9g1hwAAAAACAAAAAAAQZgAAAAEAACAAAADnJXKNOTJqAWevHOB50DPrB8Bwq+bpgyybPDvt7zK5VQAAAAAOgAAAAAIAACAAAADFin+YfY9emzjYetd0e3a7CG62gUEhbSnYgnttOiCXHSAAAAD4GmR0bYUjTd/Rzt9/NPcTqRTPUN9eqkmHEgp6pZy3TUAAAACVm8WOlt7neoqNBo6hXwbAqMFEc+tfdVC4N7KDE2fxxX5TSGEsv+cScTSftbXC3Z8ApJFdKRhmDrFafiqbYTu4</EncryptedPassword>
+    <History>False|2024-05-29T20:11:50.8400749Z;</History>
+    <LastFailureDetails>2024-05-29T20:11:50.8400749Z|checkNetSdkContainerPrereq</LastFailureDetails>
+  </PropertyGroup>
+</Project>

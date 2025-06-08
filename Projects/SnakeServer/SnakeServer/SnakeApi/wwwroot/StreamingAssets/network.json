@@ -1,0 +1,6 @@
+{
+    "Protocol" : "https",
+    "RootAuthority" : "localhost:7120",
+    "JoinPath" : "sessions/join",
+    "SearchPath": "/matchmaking/find"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\BogdanPC\source\repos\snakes\SnakeServer\SnakeApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-06T07:02:02.8301401Z;True|2024-06-06T11:49:38.4074020+05:00;True|2024-06-06T00:15:58.7662970+05:00;True|2024-06-05T23:17:25.7277002+05:00;True|2024-06-05T23:16:47.1245855+05:00;True|2024-06-05T23:14:56.0542006+05:00;True|2024-06-05T20:51:30.5578643+05:00;True|2024-06-05T20:50:56.6867102+05:00;True|2024-06-05T20:33:55.9158452+05:00;False|2024-06-05T20:33:29.2011717+05:00;True|2024-05-31T04:17:08.2534895+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

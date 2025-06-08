@@ -1,0 +1,51 @@
+﻿attribute "fs_serializer";
+
+namespace MessageSchemes;
+
+struct Vec2 {
+    x : float;
+    y : float;
+}
+
+table EventMessage (fs_serializer) {
+    created: [ Group ];
+    positionEvents: [ PositionEvent ];
+    sizeEvents: [ SizeEvent ];
+    angleEvents: [ AngleEvent ];
+    transformations: [ Transformation ];
+    disposed: [ int ];
+    sleep: [ int ];
+    attachCamera: int;
+}
+
+table Group {
+    frames: [ Frame ];
+    asset: string;
+}
+
+struct PositionEvent {
+    id: int;
+    position: Vec2;
+}
+
+struct SizeEvent {
+    id: int;
+    size: Vec2;
+}
+
+struct AngleEvent {
+    id: int;
+    angle: float;
+}
+
+table Transformation {
+    newAsset: string;
+    frames: [ int ];
+}
+
+struct Frame {
+    position: Vec2;
+    size: Vec2;
+    angle: float;
+    id: int;
+}

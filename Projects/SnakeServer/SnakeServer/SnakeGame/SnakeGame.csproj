@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Systems\RoundBasedCollision\**" />
+    <EmbeddedResource Remove="Systems\RoundBasedCollision\**" />
+    <None Remove="Systems\RoundBasedCollision\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<FlatSharpSchema Include="Models/Output/Internal/schema.fbs" />
+	<PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+    <ProjectReference Include="..\..\ServerEngine\ServerEngine\ServerEngine.csproj" />
+    <ProjectReference Include="..\MessageSchemes\MessageSchemes.csproj" />
+    <ProjectReference Include="..\SnakeCore\SnakeCore.csproj" />
+    <ProjectReference Include="..\SnakeGameAssets\SnakeGameAssets.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Configuration\Interfaces\" />
+    <Folder Include="PickupPatterns\" />
+    <Folder Include="Systems\GameObjects\PowerUps\Interfaces\" />
+    <Folder Include="Systems\RuntimeCommands\Models\" />
+  </ItemGroup>
+
+</Project>

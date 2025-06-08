@@ -1,0 +1,682 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\source\\repos\\Duelists\\Assets\\StreamingAssets\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\controllers\\matchmakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\controllers\\matchmakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b2b3486acd92fd989b9f03b413a7319d183dee59bf05fdda93d70cec794b9848\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\interfaces\\ipartyleaderdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\interfaces\\ipartyleaderdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\interfaces\\ipartymemberdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\interfaces\\ipartymemberdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\websocketpartyeventbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\websocketpartyeventbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\implementation\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\implementation\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\ac11c3e36553d18543726d58e117d69272b4726f133cf825230433deea836114\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c37c6539c71b02579d93099be36c08d865e0a3b4cfa2bc0885a1dbbeb0c96be6\\src\\Security\\Authorization\\Policy\\src\\AuthorizationMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\d3900aec529a2290e2208ade55517daf8312c6b3ed97eb73abec52d45a50d90c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\websocketpartymemberdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\websocketpartymemberdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakingservice\\services\\websocketpartyleaderdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AB634-C082-4E71-8E3B-D375B37B7588}|MatchMakingService\\MatchMakingService.csproj|solutionrelative:matchmakingservice\\services\\websocketpartyleaderdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\interfaces\\ipartycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\interfaces\\ipartycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\interfaces\\ipartyeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\interfaces\\ipartyeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\295cae4e294e46c5842e1ae8a22db013a4020fa44fc3f715585270850d80f25b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b88ea25e641cb7d80659e0478d3505702fcf79ad7f42fc9adce3b3f69323a254\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\49124ce8bcb26cab86ded707c975315ec01f8a906d1ff88d9b21a981f6db1bb7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\9e03b7cdfad63f542a55101d501b9b833bd3cc72cddc2e8f4decf45f6581f64f\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\implementation\\partyeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\implementation\\partyeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\implementation\\generators\\wordsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\implementation\\generators\\wordsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\implementation\\partymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\implementation\\partymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\implementation\\generators\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\implementation\\generators\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\interfaces\\icodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\interfaces\\icodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\2d31ba882f1579b854d7298a32dd411b94aaa0ccd6259732ce628b11dfe8a0e8\\Guid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c05e5e8e782623f555637465c8cb3597e54327fefe73ad8b3ba852d650537795\\src\\libraries\\Common\\src\\System\\Net\\WebSockets\\WebSocketValidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\models\\partycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\models\\partycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\8bc6c99d4bce58fd844f4ace37182dbc5869756a547eaa1705fb8eb3cac24392\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\6a1e562cbf244cddc5dab88573160f40f841ba4f2339ce68aa8ad0fd61de9a1b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|c:\\users\\bogdanpc\\source\\repos\\snakesroot\\projects\\matchmakingservice\\matchmakinglogic\\party\\interfaces\\ipartymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C030214-6346-4AC4-9E1B-E9991F757C46}|MatchMakingLogic\\MatchMakingLogic.csproj|solutionrelative:matchmakinglogic\\party\\interfaces\\ipartymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Party.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Implementation\\Party.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Party.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Implementation\\Party.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:22:32.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MatchMakingService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MatchMakingService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T16:02:42.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Program.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Program.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Program.cs",
+              "RelativeToolTip": "MatchMakingService\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAawEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:57:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Controllers\\PartyController.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "MatchMakingService\\Controllers\\PartyController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:01:09.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b2b3486acd92fd989b9f03b413a7319d183dee59bf05fdda93d70cec794b9848\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\b2b3486acd92fd989b9f03b413a7319d183dee59bf05fdda93d70cec794b9848\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b2b3486acd92fd989b9f03b413a7319d183dee59bf05fdda93d70cec794b9848\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\b2b3486acd92fd989b9f03b413a7319d183dee59bf05fdda93d70cec794b9848\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAWwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:09:45.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchMakingController.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Controllers\\MatchMakingController.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Controllers\\MatchMakingController.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Controllers\\MatchMakingController.cs",
+              "RelativeToolTip": "MatchMakingService\\Controllers\\MatchMakingController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:58:57.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\appsettings.json",
+              "RelativeDocumentMoniker": "MatchMakingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\appsettings.json",
+              "RelativeToolTip": "MatchMakingService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T13:59:10.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apisettings.json",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\Duelists\\Assets\\StreamingAssets\\apisettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Duelists\\Assets\\StreamingAssets\\apisettings.json",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\Duelists\\Assets\\StreamingAssets\\apisettings.json",
+              "RelativeToolTip": "..\\..\\..\\Duelists\\Assets\\StreamingAssets\\apisettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T08:38:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPartyMemberDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\Interfaces\\IPartyMemberDialogue.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\Interfaces\\IPartyMemberDialogue.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\Interfaces\\IPartyMemberDialogue.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\Interfaces\\IPartyMemberDialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:52:46.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPartyLeaderDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\Interfaces\\IPartyLeaderDialogue.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\Interfaces\\IPartyLeaderDialogue.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\Interfaces\\IPartyLeaderDialogue.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\Interfaces\\IPartyLeaderDialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:52:32.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\StartUp.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\StartUp.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\StartUp.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:40:00.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebSocketPartyEventBinder.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyEventBinder.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\WebSocketPartyEventBinder.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyEventBinder.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\WebSocketPartyEventBinder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:09:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\StartUp.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\StartUp.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\StartUp.cs",
+              "RelativeToolTip": "MatchMakingLogic\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:33:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\d3900aec529a2290e2208ade55517daf8312c6b3ed97eb73abec52d45a50d90c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\d3900aec529a2290e2208ade55517daf8312c6b3ed97eb73abec52d45a50d90c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\d3900aec529a2290e2208ade55517daf8312c6b3ed97eb73abec52d45a50d90c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\d3900aec529a2290e2208ade55517daf8312c6b3ed97eb73abec52d45a50d90c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ViewState": "AQIAAAICAAAAAAAAAAAgwCsDAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:46.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebSocketPartyLeaderDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyLeaderDialogue.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\WebSocketPartyLeaderDialogue.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyLeaderDialogue.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\WebSocketPartyLeaderDialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:55:34.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebSocketPartyMemberDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyMemberDialogue.cs",
+              "RelativeDocumentMoniker": "MatchMakingService\\Services\\WebSocketPartyMemberDialogue.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingService\\Services\\WebSocketPartyMemberDialogue.cs",
+              "RelativeToolTip": "MatchMakingService\\Services\\WebSocketPartyMemberDialogue.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:55:52.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsyncMethodBuilderCore.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\ac11c3e36553d18543726d58e117d69272b4726f133cf825230433deea836114\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\ac11c3e36553d18543726d58e117d69272b4726f133cf825230433deea836114\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\ac11c3e36553d18543726d58e117d69272b4726f133cf825230433deea836114\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\ac11c3e36553d18543726d58e117d69272b4726f133cf825230433deea836114\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:54.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c37c6539c71b02579d93099be36c08d865e0a3b4cfa2bc0885a1dbbeb0c96be6\\src\\Security\\Authorization\\Policy\\src\\AuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c37c6539c71b02579d93099be36c08d865e0a3b4cfa2bc0885a1dbbeb0c96be6\\src\\Security\\Authorization\\Policy\\src\\AuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c37c6539c71b02579d93099be36c08d865e0a3b4cfa2bc0885a1dbbeb0c96be6\\src\\Security\\Authorization\\Policy\\src\\AuthorizationMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c37c6539c71b02579d93099be36c08d865e0a3b4cfa2bc0885a1dbbeb0c96be6\\src\\Security\\Authorization\\Policy\\src\\AuthorizationMiddleware.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAgwJQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPartyController.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyController.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Interfaces\\IPartyController.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyController.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Interfaces\\IPartyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:51:02.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPartyEventSource.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyEventSource.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Interfaces\\IPartyEventSource.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyEventSource.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Interfaces\\IPartyEventSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:26:52.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeveloperExceptionPageMiddlewareImpl.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:02:03.073Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrowserLinkMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:02:04.071Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AsyncTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\295cae4e294e46c5842e1ae8a22db013a4020fa44fc3f715585270850d80f25b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\295cae4e294e46c5842e1ae8a22db013a4020fa44fc3f715585270850d80f25b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\295cae4e294e46c5842e1ae8a22db013a4020fa44fc3f715585270850d80f25b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\295cae4e294e46c5842e1ae8a22db013a4020fa44fc3f715585270850d80f25b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAgwB8BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:02:06.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b88ea25e641cb7d80659e0478d3505702fcf79ad7f42fc9adce3b3f69323a254\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\b88ea25e641cb7d80659e0478d3505702fcf79ad7f42fc9adce3b3f69323a254\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\b88ea25e641cb7d80659e0478d3505702fcf79ad7f42fc9adce3b3f69323a254\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\b88ea25e641cb7d80659e0478d3505702fcf79ad7f42fc9adce3b3f69323a254\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:50.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\49124ce8bcb26cab86ded707c975315ec01f8a906d1ff88d9b21a981f6db1bb7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\49124ce8bcb26cab86ded707c975315ec01f8a906d1ff88d9b21a981f6db1bb7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\49124ce8bcb26cab86ded707c975315ec01f8a906d1ff88d9b21a981f6db1bb7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\49124ce8bcb26cab86ded707c975315ec01f8a906d1ff88d9b21a981f6db1bb7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "ViewState": "AQIAAOoBAAAAAAAAAAAgwPkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:01:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\9e03b7cdfad63f542a55101d501b9b833bd3cc72cddc2e8f4decf45f6581f64f\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\9e03b7cdfad63f542a55101d501b9b833bd3cc72cddc2e8f4decf45f6581f64f\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\9e03b7cdfad63f542a55101d501b9b833bd3cc72cddc2e8f4decf45f6581f64f\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\9e03b7cdfad63f542a55101d501b9b833bd3cc72cddc2e8f4decf45f6581f64f\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAgwMUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:00:01.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PartyEventSource.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\PartyEventSource.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Implementation\\PartyEventSource.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\PartyEventSource.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Implementation\\PartyEventSource.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:22:46.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PartyManager.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\PartyManager.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Implementation\\PartyManager.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\PartyManager.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Implementation\\PartyManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:22:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WordSequence.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Generators\\WordSequence.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Implementation\\Generators\\WordSequence.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Generators\\WordSequence.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Implementation\\Generators\\WordSequence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:57:10.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WordGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Generators\\WordGenerator.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Implementation\\Generators\\WordGenerator.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Implementation\\Generators\\WordGenerator.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Implementation\\Generators\\WordGenerator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:43:53.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Guid.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\2d31ba882f1579b854d7298a32dd411b94aaa0ccd6259732ce628b11dfe8a0e8\\Guid.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2d31ba882f1579b854d7298a32dd411b94aaa0ccd6259732ce628b11dfe8a0e8\\Guid.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\Temp\\.vsdbgsrc\\2d31ba882f1579b854d7298a32dd411b94aaa0ccd6259732ce628b11dfe8a0e8\\Guid.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2d31ba882f1579b854d7298a32dd411b94aaa0ccd6259732ce628b11dfe8a0e8\\Guid.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:56:19.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICodeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\ICodeGenerator.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Interfaces\\ICodeGenerator.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\ICodeGenerator.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Interfaces\\ICodeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:46:40.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WebSocketValidate.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c05e5e8e782623f555637465c8cb3597e54327fefe73ad8b3ba852d650537795\\src\\libraries\\Common\\src\\System\\Net\\WebSockets\\WebSocketValidate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c05e5e8e782623f555637465c8cb3597e54327fefe73ad8b3ba852d650537795\\src\\libraries\\Common\\src\\System\\Net\\WebSockets\\WebSocketValidate.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\c05e5e8e782623f555637465c8cb3597e54327fefe73ad8b3ba852d650537795\\src\\libraries\\Common\\src\\System\\Net\\WebSockets\\WebSocketValidate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c05e5e8e782623f555637465c8cb3597e54327fefe73ad8b3ba852d650537795\\src\\libraries\\Common\\src\\System\\Net\\WebSockets\\WebSocketValidate.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwIYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:10:10.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\Client.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:01:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PartyCode.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\PartyCode.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Models\\PartyCode.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\PartyCode.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Models\\PartyCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:21:26.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Models\\Session.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:34:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\6a1e562cbf244cddc5dab88573160f40f841ba4f2339ce68aa8ad0fd61de9a1b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\6a1e562cbf244cddc5dab88573160f40f841ba4f2339ce68aa8ad0fd61de9a1b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\6a1e562cbf244cddc5dab88573160f40f841ba4f2339ce68aa8ad0fd61de9a1b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\6a1e562cbf244cddc5dab88573160f40f841ba4f2339ce68aa8ad0fd61de9a1b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ViewState": "AQIAAHkHAAAAAAAAAAAgwIgHAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:20:07.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\8bc6c99d4bce58fd844f4ace37182dbc5869756a547eaa1705fb8eb3cac24392\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\8bc6c99d4bce58fd844f4ace37182dbc5869756a547eaa1705fb8eb3cac24392\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\8bc6c99d4bce58fd844f4ace37182dbc5869756a547eaa1705fb8eb3cac24392\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\8bc6c99d4bce58fd844f4ace37182dbc5869756a547eaa1705fb8eb3cac24392\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:20:08.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:42:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPartyManager.cs",
+              "DocumentMoniker": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyManager.cs",
+              "RelativeDocumentMoniker": "MatchMakingLogic\\Party\\Interfaces\\IPartyManager.cs",
+              "ToolTip": "C:\\Users\\BogdanPC\\source\\repos\\SnakesRoot\\Projects\\MatchMakingService\\MatchMakingLogic\\Party\\Interfaces\\IPartyManager.cs",
+              "RelativeToolTip": "MatchMakingLogic\\Party\\Interfaces\\IPartyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:24:23.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

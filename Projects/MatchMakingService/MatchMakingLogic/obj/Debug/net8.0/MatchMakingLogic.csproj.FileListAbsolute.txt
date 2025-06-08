@@ -1,0 +1,13 @@
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\bin\Debug\net8.0\MatchMakingLogic.deps.json
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\bin\Debug\net8.0\MatchMakingLogic.dll
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\bin\Debug\net8.0\MatchMakingLogic.pdb
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.AssemblyInfoInputs.cache
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.AssemblyInfo.cs
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.csproj.CoreCompileInputs.cache
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.dll
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\refint\MatchMakingLogic.dll
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.pdb
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\ref\MatchMakingLogic.dll
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.csproj.AssemblyReference.cache
+C:\Users\BogdanPC\source\repos\MatchMakingService\MatchMakingLogic\obj\Debug\net8.0\MatchMakingLogic.sourcelink.json
