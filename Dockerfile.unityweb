@@ -1,0 +1,11 @@
+# Use the Unity CI base image for the desired Unity version and platform
+FROM unityci/editor:ubuntu-2022.3.48f1-webgl-3.1.0
+
+# Set the working directory
+WORKDIR /app
+
+# Copy your Unity project into the container
+COPY ["Projects/SnakeClientUnity/SnakeClient", "app/SnakeClient/"]
+
+# Run the Unity build command
+CMD ["Unity", "-quit", "-batchmode", "-projectPath", "/app/SnakeClient", "-executeMethod", "BuildScript.Build"]

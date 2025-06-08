@@ -7,20 +7,20 @@ EXPOSE 443
 
 # Для сборки приложения добавляем SDK образ .NET 8
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+WORKDIR "/src"
 
 # Копируем .csproj для проекта MatchMakingService
-COPY ["Projects/MatchMakingService/MatchMakingService/MatchMakingService.csproj", "MatchMakingService/MatchMakingService/"]
-
-# Восстанавливаем зависимости
-RUN dotnet restore "MatchMakingService/MatchMakingService/MatchMakingService.csproj"
+#COPY ["Projects/MatchMakingService/MatchMakingService/MatchMakingService.csproj", "MatchMakingService/"]
 
 # Копируем все исходные файлы проекта
-COPY . .
+COPY ["Projects/MatchMakingService/", "MatchMakingService/"]
+
+WORKDIR "/src/MatchMakingService"
+# Восстанавливаем зависимости
+RUN dotnet restore "MatchMakingService/MatchMakingService.csproj"
 
 # Собираем проект MatchMakingService
-WORKDIR "/src/MatchMakingService/MatchMakingService"
-RUN dotnet build "MatchMakingService.csproj" -c Release -o /app/build
+RUN dotnet build "MatchMakingService/MatchMakingService.csproj" -c Release -o /app/build
 
 # Публикуем проект MatchMakingService
 FROM build AS publish

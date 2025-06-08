@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sessionapi
+spec:
+  replicas: {{ .Values.sessionapi.replicas }}
+  selector:
+    matchLabels:
+      app: sessionapi
+  template:
+    metadata:
+      labels:
+        app: sessionapi
+    spec:
+      containers:
+        - name: sessionapi
+          image: "{{ .Values.sessionapi.image.repository }}:{{ .Values.sessionapi.image.tag }}"
+          ports:
+            - containerPort: {{ .Values.sessionapi.containerPort }}

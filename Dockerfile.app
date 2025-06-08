@@ -7,16 +7,16 @@ EXPOSE 443
 
 # Для сборки приложения добавляем SDK образ .NET 8
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+WORKDIR "/src"
 
 # Копируем .csproj для проекта SessionApi
-COPY ["Projects/SnakeServer/SnakeServer/SnakeApi/SessionApi.csproj", "SnakeServer/SnakeApi/"]
+#COPY ["Projects/SnakeServer/SnakeServer/SnakeApi/SessionApi.csproj", "SnakeServer/SnakeApi/"]
+
+# Копируем все исходные файлы проекта
+COPY Projects/SnakeServer/ . 
 
 # Восстанавливаем зависимости
 RUN dotnet restore "SnakeServer/SnakeApi/SessionApi.csproj"
-
-# Копируем все исходные файлы проекта
-COPY . . 
 
 # Собираем проект SessionApi
 WORKDIR "/src/SnakeServer/SnakeApi"

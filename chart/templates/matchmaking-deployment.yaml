@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: matchmakingservice
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: matchmakingservice
+  template:
+    metadata:
+      labels:
+        app: matchmakingservice
+    spec:
+      containers:
+        - name: matchmakingservice
+          image: "{{ .Values.matchmakingservice.image.repository }}:{{ .Values.matchmakingservice.image.tag }}"
+          ports:
+            - containerPort: {{ .Values.matchmakingservice.containerPort }}
+      args:
+        - '--HostList=["http://{{ .Values.sessionapi.serviceName }}:{{ .Values.sessionapi.containerPort }}"]'

@@ -1,0 +1,23 @@
+sessionapi:
+  serviceName: sessionapi
+  image:
+    repository: snakesroot-sessionapi
+    tag: latest
+  replicas: 3
+  containerPort: 8080
+
+matchmakingservice:
+  image:
+    repository: snakesroot-matchmakingservice
+    tag: latest
+  containerPort: 7878
+
+nginx:
+  image:
+    repository: nginx
+    tag: alpine
+  containerPorts:
+    - 80
+    - 443
+  configPath: /etc/nginx/nginx.conf
+  sslPath: /etc/nginx/ssl
