@@ -12,10 +12,16 @@ spec:
       labels:
         app: matchmakingservice
     spec:
+      volumes:
+        - name: nginx-config
+          configMap:
+            name: nginx-configmap
       containers:
         - name: matchmakingservice
           image: "{{ .Values.matchmakingservice.image.repository }}:{{ .Values.matchmakingservice.image.tag }}"
           ports:
             - containerPort: {{ .Values.matchmakingservice.containerPort }}
-      args:
-        - '--HostList=["http://{{ .Values.sessionapi.serviceName }}:{{ .Values.sessionapi.containerPort }}"]'
+          volumeMounts:
+            - mountPath: /app/appsettings.json
+              name: nginx-config
+              subPath: appsettings.json

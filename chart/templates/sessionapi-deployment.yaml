@@ -12,8 +12,16 @@ spec:
       labels:
         app: sessionapi
     spec:
+      volumes:
+        - name: nginx-config
+          configMap:
+            name: nginx-configmap
       containers:
         - name: sessionapi
           image: "{{ .Values.sessionapi.image.repository }}:{{ .Values.sessionapi.image.tag }}"
           ports:
             - containerPort: {{ .Values.sessionapi.containerPort }}
+          volumeMounts:
+            - mountPath: /app/wwwroot/StreamingAssets/network.json
+              name: nginx-config
+              subPath: network.json

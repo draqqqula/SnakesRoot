@@ -1,14 +1,16 @@
+host: localhost
+
 sessionapi:
   serviceName: sessionapi
   image:
-    repository: snakesroot-sessionapi
+    repository: draqqula/snakesroot-sessionapi
     tag: latest
   replicas: 3
   containerPort: 8080
 
 matchmakingservice:
   image:
-    repository: snakesroot-matchmakingservice
+    repository: draqqula/snakesroot-matchmakingservice
     tag: latest
   containerPort: 7878
 

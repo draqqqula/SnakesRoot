@@ -3,13 +3,15 @@ kind: Service
 metadata:
   name: nginx
 spec:
-  type: NodePort
+  type: LoadBalancer
   ports:
     - port: 80
+      protocol: TCP
       name: "http"
       targetPort: 80
       nodePort: 30080
     - port: 443
+      protocol: TCP
       name: "https"
       targetPort: 443
       nodePort: 30443

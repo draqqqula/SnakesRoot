@@ -1,0 +1,70 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-configmap
+data:
+  nginx.conf: |
+    events {
+      worker_connections 1024;  
+      # Максимальное количество соединений на один процесс
+    }
+
+    # Описание общего блока, который необходим для всех серверов NGINX
+    http {
+        # Настройки для SSL
+        #ssl_certificate /etc/nginx/ssl/certificate.crt;
+        #ssl_certificate_key /etc/nginx/ssl/private.key;
+
+        # Основной сервер для HTTPS
+        server {
+            listen 443;
+            #listen 443 ssl;
+            #server_name localhost;
+
+            location /api1/ {
+                proxy_pass http://sessionapi:8080/;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+            }
+
+            location /api2/ {
+                proxy_pass http://matchmakingservice:7878/;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+            }
+        }
+
+        # Редирект с HTTP на HTTPS
+        #server {
+        #    listen 80;
+        #    server_name localhost;
+        #    return 301 https://$host$request_uri;
+        #}
+    }
+  network.json: |
+    {
+      "Protocol" : "https",
+      "RootAuthority" : "{{ .Values.host }}:7120",
+      "JoinPath" : "sessions/join",
+      "SearchPath": "/matchmaking/find"
+    }
+  appsettings.json: |
+    {
+      "Logging": {
+        "LogLevel": {
+          "Default": "Information",
+          "Microsoft.AspNetCore": "Warning"
+        }
+      },
+      "AllowedHosts": "*",
+      "PartyCodeGenerator": {
+        "Characters": "qwe123",
+        "Length": 5,
+        "Batch": 10
+      },
+      "HostList": [ "http://{{ .Values.host }}:{{ .Values.sessionapi.containerPort }}" ]
+    }
