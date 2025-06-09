@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  snake-server:
+  - apiVersion: v1
+    created: "2025-06-09T00:03:04.791101046Z"
+    digest: fbdbdd0d5bdbf1b848294c865866758f450342a0e7e468708911df1315a5d5a4
+    name: snake-server
+    urls:
+    - https://github.com/draqqqula/SnakesRoot/releases/download/snake-server-1.0.0/snake-server-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-06-09T00:03:04.791107408Z"
