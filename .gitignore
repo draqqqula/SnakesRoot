@@ -1,0 +1,3 @@
+chart/templates/nginx-tls-secret.yaml
+ssl/certificate.crt
+ssl/private.key
